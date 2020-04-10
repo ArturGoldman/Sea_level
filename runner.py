@@ -24,7 +24,7 @@ for p in vals:
             start_cur[i] = int(start_cur[i])
             end_cur[i] = int(end_cur[i])
         if not (start_cur[0] == end_cur[0] and start_cur[1] == end_cur[1]):
-            os.system('python project6.py')
+            os.system('python project5.py')
         else:
             break
     print("P =", p, "is Done")
