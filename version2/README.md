@@ -6,3 +6,4 @@
 3) DrawDistribution.ipynb - Скрипт, рисующий необходимые графики
 4) SampleGenerator.ipynb - основная программа, которая с помощью предобработанных файлов (полученных скриптом GetSmallWindAndSlaFiles.ipynb) формирует выборку.
 5) output_bigger15.txt - пример выборки для скорости ветра v = 15 м/с, которая генерируется скриптом SampleGenerator.ipynb
+6) GetSubsetsProbabilityDifference.ipynb - статистический анализ полученных наблюдений, проверка гипотезы
